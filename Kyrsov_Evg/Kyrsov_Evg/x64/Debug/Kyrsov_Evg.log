@@ -1,0 +1,9 @@
+﻿  Kyrsov_Evg.cpp
+C:\Users\Torop\source\repos\Kyrsov_Evg\Kyrsov_Evg.cpp(112,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Torop\source\repos\Kyrsov_Evg\Kyrsov_Evg.cpp(122,18): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Torop\source\repos\Kyrsov_Evg\Kyrsov_Evg.cpp(136,13): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Torop\source\repos\Kyrsov_Evg\Kyrsov_Evg.cpp(159,16): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Torop\source\repos\Kyrsov_Evg\Kyrsov_Evg.cpp(174,20): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Torop\source\repos\Kyrsov_Evg\Kyrsov_Evg.cpp(234,83): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Torop\source\repos\Kyrsov_Evg\Kyrsov_Evg.cpp(235,83): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  Kyrsov_Evg.vcxproj -> C:\Users\Torop\source\repos\Kyrsov_Evg\x64\Debug\Kyrsov_Evg.exe
